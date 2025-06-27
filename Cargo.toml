@@ -40,7 +40,7 @@ ahash = { version = "0.8", default-features = false, features = [
   "std",
 ] }
 bytemuck = "1.7"
-glium = { git = "https://github.com/djgaven588/glium.git", rev = "63fff7f54422d0e18be3bc10057fd2273f3298bb" }
+glium = { git = "https://github.com/djgaven588/glium.git", rev = "5fe05ae1fe84011b1fa43291cef72307331cd3f1" }
 winit = "0.30"
 log = "0.4"
 raw-window-handle = "0.6"
